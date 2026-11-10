@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: mdenogueira
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#f5f3ff,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#c084fc&color_dots=#0d1117,#2a163d,#4c1d95,#7c3aed,#c084fc
+            dist/github-contribution-grid-snake.svg?color_snake=#7C3AED&color_dots=#F4F4F4,#DCDCDC,#B8B8B8,#888888,#7C3AED
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#A78BFA&color_dots=#0D1117,#22262D,#41464D,#7D8590,#A78BFA
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v5
