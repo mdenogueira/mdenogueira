@@ -21,7 +21,7 @@
   <path d="M221 180H211C190 180 182 195 182 220V280C182 306 173 321 144 330C173 337 182 356 182 381V439C182 464 190 480 211 480H221" fill="none" stroke="#ffffff" stroke-width="23" stroke-linejoin="round"/>
   <path d="M1207 180H1217C1238 180 1246 195 1246 220V280C1246 306 1255 321 1284 330C1255 337 1246 356 1246 381V439C1246 464 1238 480 1217 480H1207" fill="none" stroke="#ffffff" stroke-width="23" stroke-linejoin="round"/>
   <!-- Editable vector-friendly typography -->
-  <text x="250" y="355" font-family="Inter Display, Inter, Arial, sans-serif" font-size="185" font-weight="900" fill="#ffffff" letter-spacing="-1.7">NOGUEIRA</text>
+  <text x="243" y="360" font-family="Inter Display, Inter, Arial, sans-serif" font-size="198" font-weight="900" fill="#ffffff" textLength="950" lengthAdjust="spacingAndGlyphs">NOGUEIRA</text>
   <!-- Angled role label -->
   <path d="M258 384H1191V434L1154 468H258Z" fill="#fafafa"/>
   <text x="413" y="448" font-family="Inter Display, Inter, Arial, sans-serif" font-size="73" font-weight="800" fill="#090909">Web Development</text>
