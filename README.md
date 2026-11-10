@@ -248,7 +248,7 @@ Repositório dedicado aos conteúdos e exercícios de CSS estudados durante o pr
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdenogueira&theme=dracula"
     alt="GitHub Activity"
     width="100%"
-/>
+  />
 
   <br/><br/>
 
