@@ -1,3 +1,4 @@
+
 <!--
   NOGUEIRA — GITHUB PROFILE
   Minimal / Java Backend / Purple Accents
@@ -5,14 +6,16 @@
 
 <div align="center">
 
+  <!-- CUSTOM SVG HEADER -->
   <img
-    src="./assets/header.svg?v=5"
+    src="./assets/header.svg?v=6"
     alt="Nogueira — Java Backend Developer"
     width="100%"
   />
 
   <br/>
 
+  <!-- ANIMATED INTRO -->
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Development;Engineering+first.+Code+with+purpose.;Building+software%2C+one+commit+at+a+time.;Always+learning.+Always+building."
     alt="Animated introduction"
@@ -20,6 +23,7 @@
 
   <br/>
 
+  <!-- SOCIAL LINKS -->
   <a href="https://github.com/mdenogueira">
     <img
       src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white"
@@ -273,10 +277,12 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
 
 <div align="center">
 
+  <!-- GITHUB STATS / PURPLE AND BLACK -->
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdenogueira&theme=github_dark"
-    alt="GitHub Activity"
-    width="100%"
+    src="https://github-stats-extended.vercel.app/api?username=mdenogueira&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=AAAAAA&amp;icon_color=A78BFA&amp;ring_color=A78BFA"
+    alt="Nogueira's GitHub Stats"
+    width="490"
   />
 
   <br/><br/>
@@ -285,17 +291,19 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
 
   <br/><br/>
 
+  <!-- PURPLE CONTRIBUTION SNAKE -->
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=3"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=3"
     />
     <img
-      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=3"
       alt="GitHub Contribution Snake Animation"
       width="100%"
     />
@@ -316,3 +324,28 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
 > EXPLORING         Architecture, APIs & Testing
 > BUILDING          Projects & Technical Knowledge
 > GOAL              Professional Backend Development
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+### KEEP BUILDING.
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3400&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Code.+Learn.+Build.+Improve.;Backend+first.+Engineering+always.;Every+project+is+a+new+step."
+  alt="Animated footer"
+/>
+
+<br/>
+
+<a href="https://github.com/mdenogueira">
+  <img
+    src="https://img.shields.io/badge/NOGUEIRA-JAVA_BACKEND_DEVELOPMENT-151515?style=flat-square&labelColor=303030&color=151515"
+    alt="Nogueira Java Backend Development"
+  />
+</a>
+
+</div>
