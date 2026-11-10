@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
+<title id="title">Nogueira — Web Development</title>
+<desc id="desc">Banner editorial preto e branco com nome NOGUEIRA, Web Development e tecnologias Java, HTML, CSS, JavaScript, Git e GitHub.</desc>
+<defs>
+  <clipPath id="canvas"><rect width="2172" height="724"/></clipPath>
+  <linearGradient id="arcs" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#eeeeee"/>
+    <stop offset="1" stop-color="#808080"/>
+  </linearGradient>
+</defs>
+<g clip-path="url(#canvas)">
+  <rect width="2172" height="724" fill="#0b0b0c"/>
+  <!-- Decorative vector corner arcs -->
+  <circle cx="2265" cy="-230" r="505" fill="none" stroke="url(#arcs)" stroke-width="130"/>
+  <circle cx="-129" cy="1008" r="510" fill="none" stroke="url(#arcs)" stroke-width="100"/>
+  <!-- Editorial registration lines -->
+  <path d="M95 0V724 M0 95H143" fill="none" stroke="#ffffff" stroke-width="2.4"/>
+  <path d="M198 116l23-43 M225 116l23-43 M252 116l23-43" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M333 96H1085" fill="none" stroke="#ededed" stroke-width="2.8"/>
+  <!-- Oversized curly braces, vector bezier geometry -->
+  <path d="M221 180H211C190 180 182 195 182 220V280C182 306 173 321 144 330C173 337 182 356 182 381V439C182 464 190 480 211 480H221" fill="none" stroke="#ffffff" stroke-width="23" stroke-linejoin="round"/>
+  <path d="M1207 180H1217C1238 180 1246 195 1246 220V280C1246 306 1255 321 1284 330C1255 337 1246 356 1246 381V439C1246 464 1238 480 1217 480H1207" fill="none" stroke="#ffffff" stroke-width="23" stroke-linejoin="round"/>
+  <!-- Editable vector-friendly typography -->
+  <text x="250" y="355" font-family="Inter Display, Inter, Arial, sans-serif" font-size="185" font-weight="900" fill="#ffffff" letter-spacing="-1.7">NOGUEIRA</text>
+  <!-- Angled role label -->
+  <path d="M258 384H1191V434L1154 468H258Z" fill="#fafafa"/>
+  <text x="413" y="448" font-family="Inter Display, Inter, Arial, sans-serif" font-size="73" font-weight="800" fill="#090909">Web Development</text>
+  <!-- Tech panel -->
+  <path d="M1356 216V465" fill="none" stroke="#f5f5f5" stroke-width="2.6"/>
+  <text x="1414" y="292" font-family="Inter Display, Inter, Arial, sans-serif" font-size="43" font-weight="750" fill="#ffffff">Java · HTML · CSS · JavaScript</text>
+  <path d="M1414 332H2035" fill="none" stroke="#f4f4f4" stroke-width="2.6"/>
+  <text x="1414" y="401" font-family="Inter Display, Inter, Arial, sans-serif" font-size="51" font-weight="750" fill="#ffffff">Git · GitHub</text>
+  <!-- Lower typographic hatch + continuation line -->
+  <path d="M423 625l22-31 M451 625l22-31 M479 625l22-31 M507 625l22-31 M535 625l22-31 M563 625l22-31 M591 625l22-31 M619 625l22-31 M647 625l22-31 M675 625l22-31" fill="none" stroke="#f6f6f6" stroke-width="3"/>
+  <path d="M756 611H1934" fill="none" stroke="#ededed" stroke-width="2.7"/>
+  <path d="M1970 611H2052 M2011 569V653" fill="none" stroke="#ffffff" stroke-width="2.7"/>
+</g>
+</svg>
