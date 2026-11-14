@@ -178,14 +178,14 @@ Utilizo **Git e GitHub** para versionamento de código, organização dos projet
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=7"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=8"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=7"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=8"
     />
     <img
-      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=7"
+      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=8"
       alt="GitHub Contribution Snake Animation"
       width="100%"
     />
