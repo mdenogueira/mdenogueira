@@ -1,14 +1,14 @@
 
 <!--
   NOGUEIRA — GITHUB PROFILE
-  Minimal / Java Backend / Purple Accents
+  Minimal / Modern / Backend Focus
 -->
 
 <div align="center">
 
   <!-- CUSTOM SVG HEADER -->
   <img
-    src="./assets/header.svg?v=6"
+    src="./assets/header.svg?v=7"
     alt="Nogueira — Java Backend Developer"
     width="100%"
   />
@@ -17,23 +17,30 @@
 
   <!-- ANIMATED INTRO -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Development;Engineering+first.+Code+with+purpose.;Building+software%2C+one+commit+at+a+time.;Always+learning.+Always+building."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1100&color=9CA3AF&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Developer;Engineering+first.+Code+with+purpose.;Building+software%2C+one+commit+at+a+time.;Always+learning.+Always+building."
     alt="Animated introduction"
   />
 
   <br/>
 
   <!-- SOCIAL LINKS -->
+  <a href="https://www.linkedin.com/in/mariaeduardanogueirapereira/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
   <a href="https://github.com/mdenogueira">
     <img
-      src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=FFFFFF"
       alt="GitHub"
     />
   </a>
   &nbsp;
   <a href="https://github.com/mdenogueira?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Repositories-151515?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Repositories-151515?style=for-the-badge&logo=github&logoColor=FFFFFF"
       alt="Repositories"
     />
   </a>
@@ -46,15 +53,13 @@
 
 ## `01` &nbsp; About me
 
-Olá! Sou **Maria Eduarda Nogueira**, estudante de programação com foco em **Java Backend** e interesse em engenharia de software, arquitetura e desenvolvimento de sistemas bem estruturados.
+Sou **Maria Eduarda Nogueira**, estudante de programação com foco em **Java Backend**, interessada em engenharia de software, arquitetura e desenvolvimento de sistemas bem estruturados.
 
-Atualmente, concentro meus estudos em **Java, orientação a objetos, lógica de programação, regras de negócio e fundamentos do desenvolvimento backend**.
+Tenho conhecimentos em **HTML, CSS e JavaScript**, que complementam minha visão sobre aplicações web e seus diferentes componentes.
 
-Também possuo conhecimentos em **HTML, CSS e JavaScript**, que complementam minha compreensão sobre aplicações web e suas diferentes camadas.
+Atualmente, concentro meus estudos em Java, orientação a objetos, regras de negócio, APIs e boas práticas de desenvolvimento.
 
-Utilizo **Git e GitHub** para versionamento, organização dos projetos e acompanhamento da minha evolução técnica.
-
-Busco desenvolver soluções com código organizado, responsabilidades bem definidas e boas práticas de engenharia.
+Utilizo **Git e GitHub** para versionamento de código, organização dos projetos e acompanhamento da minha evolução técnica.
 
 > Good software starts with good decisions.
 
@@ -66,50 +71,58 @@ Busco desenvolver soluções com código organizado, responsabilidades bem defin
 
 <div align="center">
 
-### Main Focus
-
-<br/>
-
-<img
-  src="https://skillicons.dev/icons?i=java&theme=dark"
-  height="65"
-  alt="Java"
-/>
-
-<br/><br/>
-
-**JAVA · BACKEND DEVELOPMENT**
-
-<sub>Orientação a Objetos · Engenharia de Software · Regras de Negócio</sub>
-
-<br/><br/>
-
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <br/>
-      <strong>Front-end Knowledge</strong>
-      <br/><br/>
       <img
-        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-        height="44"
-        alt="HTML CSS JavaScript"
+        src="https://skillicons.dev/icons?i=java&theme=dark"
+        height="48"
+        alt="Java"
       />
       <br/><br/>
-      <sub>HTML · CSS · JAVASCRIPT</sub>
+      <strong>Java</strong>
+      <br/>
+      <sub>MAIN FOCUS</sub>
       <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <br/>
-      <strong>Development Tools</strong>
+      <img
+        src="https://skillicons.dev/icons?i=html,css&theme=dark"
+        height="44"
+        alt="HTML CSS"
+      />
       <br/><br/>
+      <strong>HTML & CSS</strong>
+      <br/>
+      <sub>FRONT-END KNOWLEDGE</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img
+        src="https://skillicons.dev/icons?i=js&theme=dark"
+        height="44"
+        alt="JavaScript"
+      />
+      <br/><br/>
+      <strong>JavaScript</strong>
+      <br/>
+      <sub>COMPLEMENTARY</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
       <img
         src="https://skillicons.dev/icons?i=git,github&theme=dark"
         height="44"
         alt="Git GitHub"
       />
       <br/><br/>
-      <sub>GIT · GITHUB</sub>
+      <strong>Dev Tools</strong>
+      <br/>
+      <sub>VERSION CONTROL</sub>
       <br/><br/>
     </td>
   </tr>
@@ -136,154 +149,23 @@ Busco desenvolver soluções com código organizado, responsabilidades bem defin
 
 ---
 
-## `03` &nbsp; Selected projects
-
-<sub>SELECTED WORK / DEVELOPMENT & LEARNING</sub>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<br/>
-<sub>01 / CURRENT SPECIALIZATION</sub>
-
-### Java Backend Journey
-
-Minha jornada de especialização em desenvolvimento backend, estudando Java, orientação a objetos, arquitetura e fundamentos de engenharia de software.
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Java-252525?style=flat-square&logo=openjdk&logoColor=white"
-    alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/Backend-252525?style=flat-square"
-    alt="Backend"
-  />
-</p>
-
-<a href="https://github.com/mdenogueira?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/View_Repositories-171717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Repositories"
-  />
-</a>
-
-<br/><br/>
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-<sub>02 / WEB · LANDING PAGE</sub>
-
-### Brasa Burguer
-
-Landing page desenvolvida para uma hamburgueria, com foco na apresentação do cardápio, estruturação de conteúdo e organização visual.
-
-<p>
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"
-    alt="CSS3"
-  />
-</p>
-
-<a href="https://github.com/mdenogueira/Brasa-Burguer">
-  <img
-    src="https://img.shields.io/badge/View_Project-171717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Brasa Burguer"
-  />
-</a>
-
-<br/><br/>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-<br/>
-<sub>03 / WEB · CREATIVE PAGE</sub>
-
-### Kurapika Landing Page
-
-Página temática dedicada ao personagem Kurapika, explorando estruturação de páginas, composição visual e estilização de interfaces.
-
-<p>
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"
-    alt="CSS3"
-  />
-</p>
-
-<a href="https://github.com/mdenogueira/Kurapika-Landing-Page">
-  <img
-    src="https://img.shields.io/badge/View_Project-171717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Kurapika Landing Page"
-  />
-</a>
-
-<br/><br/>
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-<sub>04 / WEB · LEARNING PROJECT</sub>
-
-### Brownie Recipe
-
-Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a criação de uma página web dedicada a uma receita de brownie.
-
-<p>
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-    alt="HTML5"
-  />
-  <img
-    src="https://img.shields.io/badge/Web-252525?style=flat-square"
-    alt="Web"
-  />
-</p>
-
-<a href="https://github.com/mdenogueira/Atividade-Proa-Receita">
-  <img
-    src="https://img.shields.io/badge/View_Project-171717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Brownie Recipe"
-  />
-</a>
-
-<br/><br/>
-
-</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## `04` &nbsp; GitHub activity
+## `03` &nbsp; GitHub activity
 
 <div align="center">
 
-  <!-- GITHUB STATS / PURPLE AND BLACK -->
+  <!-- GITHUB STATS -->
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=mdenogueira&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=AAAAAA&amp;icon_color=A78BFA&amp;ring_color=A78BFA"
-    alt="Nogueira's GitHub Stats"
-    width="490"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=mdenogueira&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=AAAAAA&amp;icon_color=FFFFFF&amp;ring_color=FFFFFF"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=mdenogueira&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=111111&amp;text_color=555555&amp;icon_color=111111&amp;ring_color=111111"
+      alt="GitHub Statistics"
+      width="490"
+    />
+  </picture>
 
   <br/><br/>
 
@@ -296,14 +178,14 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=3"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=7"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=3"
+      srcset="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=7"
     />
     <img
-      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake-dark.svg?v=3"
+      src="https://raw.githubusercontent.com/mdenogueira/mdenogueira/output/github-contribution-grid-snake.svg?v=7"
       alt="GitHub Contribution Snake Animation"
       width="100%"
     />
@@ -315,12 +197,11 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
 
 ---
 
-## `05` &nbsp; Currently
+## `04` &nbsp; Currently
 
 ```text
 > MAIN FOCUS        Java Backend Development
-> STUDYING          Java & Software Engineering
-> PRACTICING        Programming Logic & OOP
+> STUDYING          Software Engineering & OOP
 > EXPLORING         Architecture, APIs & Testing
 > BUILDING          Projects & Technical Knowledge
 > GOAL              Professional Backend Development
@@ -332,20 +213,20 @@ Projeto desenvolvido durante uma atividade do programa Transforme-se PROA, com a
 
 <div align="center">
 
-### KEEP BUILDING.
+  <h3>KEEP BUILDING.</h3>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3400&pause=1400&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Code.+Learn.+Build.+Improve.;Backend+first.+Engineering+always.;Every+project+is+a+new+step."
-  alt="Animated footer"
-/>
-
-<br/>
-
-<a href="https://github.com/mdenogueira">
   <img
-    src="https://img.shields.io/badge/NOGUEIRA-JAVA_BACKEND_DEVELOPMENT-151515?style=flat-square&labelColor=303030&color=151515"
-    alt="Nogueira Java Backend Development"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3400&pause=1300&color=9CA3AF&center=true&vCenter=true&width=620&height=45&lines=Code.+Learn.+Build.+Improve.;Backend+first.+Engineering+always.;One+step+closer+with+every+commit."
+    alt="Animated footer"
   />
-</a>
+
+  <br/>
+
+  <a href="https://github.com/mdenogueira">
+    <img
+      src="https://img.shields.io/badge/NOGUEIRA-JAVA_BACKEND_DEVELOPER-151515?style=flat-square&labelColor=303030&color=151515"
+      alt="Nogueira Java Backend Developer"
+    />
+  </a>
 
 </div>
